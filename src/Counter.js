@@ -4,7 +4,7 @@ export const Counter = () => {
     // const [inc, setInc] = useState('0')
     // const [dec, setDec] = useState('0')
     const handelInc = () =>{ 
-        return setCount(count +1)
+        return setCount(count +11)
     }
     const handelDec = () =>{ 
         return setCount(count -1)
