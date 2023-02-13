@@ -1,10 +1,11 @@
 
-import {Counter} from "./Counter";
+import { Counter } from './Counter';
+
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Counter></Counter>
     </div>
   );
 }
